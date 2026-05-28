@@ -18,13 +18,26 @@ The project will:
 
 The final insights will support Maersk in building a more reliable, data-driven supplier management process that improves delivery performance, reduces defects, strengthens operational visibility, and minimizes supply chain disruptions.
 
+# Supplier Performance Dashboard:
+Visualizes on-time delivery rate, delayed orders, supplier ranking, order volume, defect rate, and performance by region.
+
+
 <img width="2888" height="1550" alt="image" src="https://github.com/user-attachments/assets/12203400-634f-4ade-b2b1-ee229d2cff1e" />
+
+# Lead Time Reliability Dashboard:
+Track planned versus actual lead time, lead-time variance, average delay days, suppliers with unstable lead times, and late delivery trends
 
 
 <img width="2825" height="1587" alt="image" src="https://github.com/user-attachments/assets/cadd56f7-f8d4-4bd3-8d08-42b4af18f6a1" />
 
+# Supplier Quality and Defect Dashboard:
+Monitor defect rate, rejected goods, damaged shipments, wrong item deliveries, quality inspection results, and supplier quality score.
+
 
 <img width="2800" height="1575" alt="image" src="https://github.com/user-attachments/assets/935697d0-2eff-4231-a0b5-f8cf075b69ed" />
+
+# Procurement Cost and Invoice Accuracy Dashboard:
+Analyze order value, invoice value, cost discrepancies, overbilling, underbilling, missing invoices, and financial impact of supplier performance issues.
 
 
 <img width="2900" height="1525" alt="image" src="https://github.com/user-attachments/assets/88ec9ad0-4fe7-431a-8a0c-3b214f24e445" />
@@ -34,6 +47,9 @@ The final insights will support Maersk in building a more reliable, data-driven 
 - Supplier average ratings remain moderate (3.0), and the average lead‑time variance (2 days) indicates inconsistent fulfilment
 - A small group of suppliers and product categories disproportionately drive delays and defects
 - A few high performers demonstrate that strong service levels are achievable
+
+<img width="2175" height="562" alt="image" src="https://github.com/user-attachments/assets/6bf0bea2-0498-42f4-bbd3-40b82257f920" />
+
 
  # Recommendations
  ## Critical:
