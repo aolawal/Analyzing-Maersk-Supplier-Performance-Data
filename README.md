@@ -19,10 +19,11 @@ The project will:
 The final insights will support Maersk in building a more reliable, data-driven supplier management process that improves delivery performance, reduces defects, strengthens operational visibility, and minimizes supply chain disruptions.
 
 # Supplier Performance Dashboard:
-Visualizes on-time delivery rate, delayed orders, supplier ranking, order volume, defect rate, and performance by region.
+Visualizes total on-time delivery rate, delayed orders, supplier ranking, order volume, defect rate, and performance by region.
 
 
-<img width="2888" height="1550" alt="image" src="https://github.com/user-attachments/assets/12203400-634f-4ade-b2b1-ee229d2cff1e" />
+<img width="1228" height="547" alt="image" src="https://github.com/user-attachments/assets/852c3432-4c45-46dd-94c6-e5cb0892029c" />
+
 
 # Lead Time Reliability Dashboard:
 Track planned versus actual lead time, lead-time variance, average delay days, suppliers with unstable lead times, and late delivery trends
